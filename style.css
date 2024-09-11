@@ -67,3 +67,21 @@ button:hover{
     background-color: rgb(3, 53, 53);
     
 }
+#resumeOutput{
+    max-width: 800px;
+    margin: auto;
+    background-color: #f0f4f8;
+    border: 2px solid teal;
+    border-radius: 8px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.5);
+    padding: 20px;
+    
+}
+#resumeOutput h2{
+    color:teal;
+}
+.preview{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
